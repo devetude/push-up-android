@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">push-up-android</string>
     <string name="reset_image_button">Reset image button</string>
+    <string name="camera_icon_image_view">Camera icon image view</string>
+    <string name="camera_permission_setting">Camera permission setting</string>
+    <string name="camera_permission_description">This app uses the camera to count based on your pose.\n\nTherefore, the camera permission is required to operate normally.</string>
 </resources>
