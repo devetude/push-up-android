@@ -1,4 +1,4 @@
-package net.devetude.pushup.view
+package net.devetude.pushup.view.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
