@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">push-up-android</string>
+    <string name="reset_image_button">Reset image button</string>
 </resources>
