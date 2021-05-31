@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StrokeTextView">
+        <attr format="float" name="stroke_width"/>
+        <attr format="color" name="stroke_color"/>
+    </declare-styleable>
+</resources>
